@@ -2,7 +2,7 @@ package ZHIHU;
 
 public class Main20170914_001 {
 
-	//最大连续子数组的和
+	// 最大连续子数组的和
 	public static void main(String[] args) {
 
 		int[] arr = {1, -2, 3 , 5, -2, 5};
